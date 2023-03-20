@@ -49,7 +49,7 @@ We also try to contribute to each ecosystem we're in, through the production of 
 - **Open source tooling for validators/node runners**:
   - [Monitor Your Aptos validator and validator fullnodes with Prometheus and Grafana](https://github.com/RhinoStake/aptos_monitoring)
   - [Ansible playbook for Aptos Node Management (Bare Metal)](https://github.com/RhinoStake/ansible-aptos)
-  - [Ansible playbook for Secure Server Setup, including server setup, cosmos, horcrus, ](https://github.com/RhinoStake/secure-server-setup-ansible)
+  - [Ansible playbook for Secure Server Setup, including server setup, cosmos, horcrux, and more](https://github.com/RhinoStake/secure-server-setup-ansible)
 
 Finally, be sure to catch members of the RHINO team on [Game of Nodes](https://twitter.com/gameofnodes_)! Broadcast live on [YouTube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA/videos?reload=9) and [Twitter](https://twitter.com/gameofnodes_) every **Wednesday at 21:00 UTC**.
 

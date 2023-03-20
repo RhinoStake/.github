@@ -13,7 +13,7 @@ Today we run infrastructure and operations for many different types of PoS block
 - RHINO is a [Chainlink](https://chain.link/) [node operator](https://market.link/nodes/RHINO) providing [Decentralized Data Feeds](https://chain.link/data-feeds), [Proof of Reserve](https://chain.link/proof-of-reserve), and [VRF](https://chain.link/vrf) across multiple ecosystems.
 - Most recently, RHINO is a selected "genesis" node operator for [Aptos](https://aptoslabs.com/), including the responsibility of running the staking pool for Aptos Labs Corporation.
 
-Although a small team, we utilize our deep experiences in security, network operations, infrastructure and automation to deliver operations "at-scale", working to reduce downtime, increase delegator rewards, and ultimately deliver a better and more secure experiences to project teams and end-users.
+Although a small team, we utilize our deep experiences in security, network operations, infrastructure and automation to deliver operations "at-scale" &mdash; working to reduce downtime, increase delegator rewards, and ultimately deliver a better and more secure experiences to project teams and end-users.
 
 ## Our Infrastructure
 

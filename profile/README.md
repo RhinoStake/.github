@@ -58,7 +58,9 @@ We also try to contribute to each ecosystem we're in, through the production of 
   - [Ansible playbook for Secure Server Setup, including server setup, Cosmos/tenderint chains, Aptos, Chainlink, horcrux, and more](https://github.com/RhinoStake/secure-server-setup-ansible)
 - We provide **public RPC, API, gRPC endpoints, and seed nodes** for devnet, testnet and mainnet blockchains.
 
-## Game of Nodes
+## Our Yawping
+
+[![Game of Nodes](https://grabup.teamhim.com/seminormal-talukas-inscenation-sidewise.png)](https://rss.com/podcasts/game-of-nodes/)
 
 Finally, be sure to catch members of the RHINO team on **[Game of Nodes](https://twitter.com/gameofnodes_)**! We broadcast live on [YouTube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA/videos?reload=9) and [Twitter](https://twitter.com/gameofnodes_) every **Wednesday at 21:00 UTC**.
 

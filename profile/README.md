@@ -6,7 +6,7 @@
 
 Launched in 2021, the RHINO team works closely with a significant number of blockchain projects across multiple ecosystems. We have been a part of multitude genesis ceremonies, contributed to the success of blockchain projects, and have been instrumental during testnet, launches, upgrades, and chain "incident" management.
 
-Our strengths include **delivering secure, redundant and geo-distributed infrastructure at-scale** for _institutional investors, web3 project teams, venture capital, as well as for our own staking operations_.
+Our strengths include delivering **secure, redundant and geo-distributed infrastructure at-scale** for **institutional investors, web3 project teams, venture capital**, as well as for our own staking operations.
 
 We like to get involved in projects "early", offering a high amount of engagement, tooling, analytics, automation and needed assistance for new L1s. We're clear communicators, with experience in working with geo-distributed diverse validator teams and assist in the coordination, communication and documentation of efforts for efficient and performant testnets and mainnet launches.
 

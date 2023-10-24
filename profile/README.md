@@ -64,6 +64,6 @@ We also try to contribute to each ecosystem we're in, through the production of 
 
 Finally, be sure to catch members of the RHINO team on **[Game of Nodes](https://twitter.com/gameofnodes_)**! We broadcast live on [YouTube](https://www.youtube.com/channel/UCWsyvi27z0i2bmOyBw1MAKA/videos?reload=9) and [Twitter](https://twitter.com/gameofnodes_) every **Wednesday at 21:00 UTC**.
 
-Game of Nodes is weekly long-form podcast featuring validator teams discussing tech, governance, drama, and airdrops across Ethereum, Cosmos, Aptos, and everywhere else. Holistically wholesome since 2022.
+Game of Nodes is weekly long-form podcast featuring independent validator teams discussing tech, governance, drama, and airdrops across Ethereum, Cosmos, Aptos, and everywhere else. Holistically wholesome since 2022.
 
 Add [Game of Nodes](https://rss.com/podcasts/game-of-nodes/) to your favorite podcast player today!

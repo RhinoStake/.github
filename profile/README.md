@@ -55,6 +55,7 @@ We also try to contribute to each ecosystem we're in, through the production of 
 - **Open source tooling for validators/node runners**:
   - [Monitor Your Aptos validator and validator fullnodes with Prometheus and Grafana](https://github.com/RhinoStake/aptos_monitoring)
   - [Ansible playbook for Aptos Node Management (Bare Metal)](https://github.com/RhinoStake/ansible-aptos)
+  - [Ansible playbook for Berachain Node Management (Bare Metal)](https://github.com/RhinoStake/berachain-aptos)
   - [Ansible playbook for Secure Server Setup, including server setup, Cosmos/tenderint chains, Aptos, Chainlink, horcrux, and more](https://github.com/RhinoStake/secure-server-setup-ansible)
 - We provide **public RPC, API, gRPC endpoints, and seed nodes** for devnet, testnet and mainnet blockchains.
 

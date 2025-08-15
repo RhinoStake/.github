@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://grabup.teamhim.com/eudemonics-nipponize-tearproof-hyponoia.png" />
+  <img src="https://snapshots.rhinostake.com/rhinoshare/twitter_header.jpg" />
 </p>
 
 [RHINO](https://rhinostake.com) is a blockchain infrastructure and services organization built on over 30 years of infrastructure, security and program delivery experience.
 
-Launched in 2021, the RHINO team works closely with a significant number of blockchain projects across multiple ecosystems. We have been a part of multitude genesis ceremonies, contributed to the success of blockchain projects, and have been instrumental during testnet, launches, upgrades, and chain "incident" management.
+Launched in 2020, the RHINO team works closely with a significant number of blockchain projects across multiple ecosystems. We have been a part of multitude genesis ceremonies, contributed to the success of blockchain projects, and have been instrumental during testnet, launches, upgrades, and chain "incident" management.
 
 Our strengths include delivering **secure, redundant and geo-distributed infrastructure at-scale** for **institutional investors, web3 project teams, venture capital**, as well as for our own staking operations.
 
